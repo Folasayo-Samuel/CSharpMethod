@@ -1,0 +1,15 @@
+/home/saint/Desktop/CSharpMethod/bin/Debug/net6.0/CSharpMethod
+/home/saint/Desktop/CSharpMethod/bin/Debug/net6.0/CSharpMethod.deps.json
+/home/saint/Desktop/CSharpMethod/bin/Debug/net6.0/CSharpMethod.runtimeconfig.json
+/home/saint/Desktop/CSharpMethod/bin/Debug/net6.0/CSharpMethod.dll
+/home/saint/Desktop/CSharpMethod/bin/Debug/net6.0/CSharpMethod.pdb
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.csproj.AssemblyReference.cache
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.AssemblyInfoInputs.cache
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.AssemblyInfo.cs
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.dll
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/refint/CSharpMethod.dll
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.pdb
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/CSharpMethod.genruntimeconfig.cache
+/home/saint/Desktop/CSharpMethod/obj/Debug/net6.0/ref/CSharpMethod.dll
